@@ -1,0 +1,3 @@
+user1:pa$$W0rd1:accounting:/home/user1:/bin/bash
+user2:pa$$W0rd2:hr:/home/user2:/bin/bash
+user3:pa$$W0rd3:pr:/home/user3:/bin/bash
